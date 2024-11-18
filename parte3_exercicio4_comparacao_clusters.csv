@@ -1,0 +1,168 @@
+Country,Cluster_Kmeans,Cluster_Hierarquico,Mesmo_Cluster
+Afghanistan,1,1,True
+Albania,2,2,True
+Algeria,2,2,True
+Angola,1,1,True
+Antigua and Barbuda,2,2,True
+Argentina,2,2,True
+Armenia,2,2,True
+Australia,0,0,True
+Austria,0,0,True
+Azerbaijan,2,2,True
+Bahamas,2,2,True
+Bahrain,2,0,False
+Bangladesh,2,2,True
+Barbados,2,2,True
+Belarus,2,2,True
+Belgium,0,0,True
+Belize,2,2,True
+Benin,1,1,True
+Bhutan,2,2,True
+Bolivia,2,2,True
+Bosnia and Herzegovina,2,2,True
+Botswana,2,2,True
+Brazil,2,2,True
+Brunei,0,0,True
+Bulgaria,2,2,True
+Burkina Faso,1,1,True
+Burundi,1,1,True
+Cambodia,2,2,True
+Cameroon,1,1,True
+Canada,0,0,True
+Cape Verde,2,2,True
+Central African Republic,1,1,True
+Chad,1,1,True
+Chile,2,2,True
+China,2,2,True
+Colombia,2,2,True
+Comoros,1,1,True
+"Congo, Dem. Rep.",1,1,True
+"Congo, Rep.",1,1,True
+Costa Rica,2,2,True
+Cote d'Ivoire,1,1,True
+Croatia,2,2,True
+Cyprus,0,2,False
+Czech Republic,0,2,False
+Denmark,0,0,True
+Dominican Republic,2,2,True
+Ecuador,2,2,True
+Egypt,2,2,True
+El Salvador,2,2,True
+Equatorial Guinea,1,1,True
+Eritrea,1,1,True
+Estonia,2,2,True
+Fiji,2,2,True
+Finland,0,0,True
+France,0,0,True
+Gabon,1,1,True
+Gambia,1,1,True
+Georgia,2,2,True
+Germany,0,0,True
+Ghana,1,1,True
+Greece,0,0,True
+Grenada,2,2,True
+Guatemala,2,2,True
+Guinea,1,1,True
+Guinea-Bissau,1,1,True
+Guyana,2,2,True
+Haiti,1,1,True
+Hungary,2,2,True
+Iceland,0,0,True
+India,2,2,True
+Indonesia,2,2,True
+Iran,2,2,True
+Iraq,1,2,False
+Ireland,0,0,True
+Israel,0,0,True
+Italy,0,0,True
+Jamaica,2,2,True
+Japan,0,0,True
+Jordan,2,2,True
+Kazakhstan,2,2,True
+Kenya,1,1,True
+Kiribati,1,2,False
+Kuwait,0,0,True
+Kyrgyz Republic,2,2,True
+Lao,1,1,True
+Latvia,2,2,True
+Lebanon,2,2,True
+Lesotho,1,2,False
+Liberia,1,2,False
+Libya,2,0,False
+Lithuania,2,2,True
+Luxembourg,0,0,True
+"Macedonia, FYR",2,2,True
+Madagascar,1,1,True
+Malawi,1,1,True
+Malaysia,2,2,True
+Maldives,2,2,True
+Mali,1,1,True
+Malta,0,0,True
+Mauritania,1,1,True
+Mauritius,2,2,True
+"Micronesia, Fed. Sts.",2,2,True
+Moldova,2,2,True
+Mongolia,2,2,True
+Montenegro,2,2,True
+Morocco,2,2,True
+Mozambique,1,1,True
+Myanmar,2,1,False
+Namibia,1,2,False
+Nepal,2,2,True
+Netherlands,0,0,True
+New Zealand,0,0,True
+Niger,1,1,True
+Nigeria,1,1,True
+Norway,0,0,True
+Oman,2,0,False
+Pakistan,1,1,True
+Panama,2,2,True
+Paraguay,2,2,True
+Peru,2,2,True
+Philippines,2,2,True
+Poland,2,2,True
+Portugal,0,0,True
+Qatar,0,0,True
+Romania,2,2,True
+Russia,2,2,True
+Rwanda,1,2,False
+Samoa,2,2,True
+Saudi Arabia,2,0,False
+Senegal,1,1,True
+Serbia,2,2,True
+Seychelles,2,2,True
+Sierra Leone,1,1,True
+Singapore,0,0,True
+Slovak Republic,2,2,True
+Slovenia,0,2,False
+Solomon Islands,1,2,False
+South Africa,2,2,True
+South Korea,0,2,False
+Spain,0,0,True
+Sri Lanka,2,2,True
+St. Vincent and the Grenadines,2,2,True
+Sudan,1,1,True
+Suriname,2,2,True
+Sweden,0,0,True
+Switzerland,0,0,True
+Tajikistan,2,2,True
+Tanzania,1,1,True
+Thailand,2,2,True
+Timor-Leste,1,1,True
+Togo,1,1,True
+Tonga,2,2,True
+Tunisia,2,2,True
+Turkey,2,2,True
+Turkmenistan,2,1,False
+Uganda,1,1,True
+Ukraine,2,2,True
+United Arab Emirates,0,0,True
+United Kingdom,0,0,True
+United States,0,0,True
+Uruguay,2,2,True
+Uzbekistan,2,2,True
+Vanuatu,2,2,True
+Venezuela,2,2,True
+Vietnam,2,2,True
+Yemen,1,1,True
+Zambia,1,1,True
